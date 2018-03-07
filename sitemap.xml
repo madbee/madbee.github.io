@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://madbee.github.io/%E8%AF%BB%E7%99%BD%E5%A4%9C%E8%A1%8C/</loc>
+    <lastmod>2016-08-03T01:07:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://madbee.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madbee.github.io/</loc>
+    <lastmod>2016-08-03T01:07:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madbee.github.io/post/</loc>
+    <lastmod>2016-08-03T01:07:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madbee.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://madbee.github.io/%E5%9B%9E%E5%BF%86%E5%BE%88%E7%BE%8E%E5%A5%BD/</loc>
+  </url>
+  
+</urlset>
