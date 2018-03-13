@@ -24,6 +24,16 @@
     </item>
     
     <item>
+      <title>Install_GVM</title>
+      <link>http://madbee.github.io/install_gvm/</link>
+      <pubDate>Tue, 13 Mar 2018 08:46:27 +0800</pubDate>
+      
+      <guid>http://madbee.github.io/install_gvm/</guid>
+      <description>#Ubuntu 安装GVM提示无法连接Google解决办法 使用 GVM 安装不同版本的 Go。碰到问题是国内无法访问 GVM 配置的源地址。报如下错误：
+[root@mq:/home/wwwroot/] $ gvm install go1.8 Downloading Go source... Installing go1.8... * Compiling... ERROR: Couldn&#39;t download Go source. Check the logs /root/.gvm/logs/go-download.log $ cat /root/.gvm/logs/go-download.log Initialized empty Git repository in /root/.gvm/archive/go/.git/ error: Failed connect to go.googlesource.com:443; Operation now in progress while accessing https://go.googlesource.com/go/info/refs fatal: HTTP request failed Initialized empty Git repository in /root/.gvm/archive/go/.git/ Initialized empty Git repository in /root/.gvm/archive/go/.git/  国内访问不了https://go.googlesource.com/go 可将 GO_SOURCE_URL修改为github上的源码镜像</description>
+    </item>
+    
+    <item>
       <title>#回忆很美好</title>
       <link>http://madbee.github.io/#%E5%9B%9E%E5%BF%86%E5%BE%88%E7%BE%8E%E5%A5%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
