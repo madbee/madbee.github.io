@@ -24,11 +24,11 @@
     </item>
     
     <item>
-      <title>Install_GVM</title>
-      <link>http://madbee.github.io/install_gvm/</link>
+      <title>安装GVM提示无法连接Google解决办法</title>
+      <link>http://madbee.github.io/%E5%AE%89%E8%A3%85gvm%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5google%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</link>
       <pubDate>Tue, 13 Mar 2018 08:46:27 +0800</pubDate>
       
-      <guid>http://madbee.github.io/install_gvm/</guid>
+      <guid>http://madbee.github.io/%E5%AE%89%E8%A3%85gvm%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5google%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</guid>
       <description>#Ubuntu 安装GVM提示无法连接Google解决办法 使用 GVM 安装不同版本的 Go。碰到问题是国内无法访问 GVM 配置的源地址。报如下错误：
 [root@mq:/home/wwwroot/] $ gvm install go1.8 Downloading Go source... Installing go1.8... * Compiling... ERROR: Couldn&#39;t download Go source. Check the logs /root/.gvm/logs/go-download.log $ cat /root/.gvm/logs/go-download.log Initialized empty Git repository in /root/.gvm/archive/go/.git/ error: Failed connect to go.googlesource.com:443; Operation now in progress while accessing https://go.googlesource.com/go/info/refs fatal: HTTP request failed Initialized empty Git repository in /root/.gvm/archive/go/.git/ Initialized empty Git repository in /root/.gvm/archive/go/.git/  国内访问不了https://go.googlesource.com/go 可将 GO_SOURCE_URL修改为github上的源码镜像</description>
     </item>
