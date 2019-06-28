@@ -5,41 +5,20 @@
     <link>http://madbee.github.io/post/</link>
     <description>Recent content in Posts on Linto Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 03 Aug 2016 01:07:36 -0400</lastBuildDate>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2015. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 15:50:19 +0800</lastBuildDate>
     
 	<atom:link href="http://madbee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>读《白夜行》</title>
-      <link>http://madbee.github.io/%E8%AF%BB%E7%99%BD%E5%A4%9C%E8%A1%8C/</link>
-      <pubDate>Wed, 03 Aug 2016 01:07:36 -0400</pubDate>
+      <title>回忆很美好 </title>
+      <link>http://madbee.github.io/2019/06/28/fist/</link>
+      <pubDate>Sat, 23 Feb 2019 15:50:19 +0800</pubDate>
       
-      <guid>http://madbee.github.io/%E8%AF%BB%E7%99%BD%E5%A4%9C%E8%A1%8C/</guid>
-      <description>#读《白夜行》
-断断续续的花了大概一个月读完了东野圭吾的《白夜行》，故事从一个当铺老板被杀讲起，贯穿的讲了单亲女神雪穗、当铺老板儿子亮的成长。读到中间，就差不多能看出来整个事件大概是二人联手完成的，但是就是一些小的线索及故事一直吸引着我继续读下去。结局没有太出乎意料，原来是当铺老板嫖宿幼女，遭自己儿子杀害；而雪穗和亮却因为各自有把柄在对方手里而继续维持着特殊的相互利用的关系；最后亮因为遭到警方怀疑，在抓捕过程中自杀了，完美的保护了雪穗&amp;hellip;
-跟朋友讨论，他竟然是看的电影版《白夜行》，电影中亮是因为自己女朋友被老爸强奸才杀了他。这根书中的故事差别很大，结局也大不相同。其实这也很好理解，电影将一部小说拍成电影，必须要有一个可以说的故事，爱情故事是最合适的了。
-“看小说能给你带来什么好处？”朋友问我，我想其实书中人物的很多面都可以在自己身上找到影子，那么我能像他们那样应对自如吗？或许书给我提供了一种应该的方式来参考。</description>
-    </item>
-    
-    <item>
-      <title>安装GVM提示无法连接Google解决办法</title>
-      <link>http://madbee.github.io/%E5%AE%89%E8%A3%85gvm%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5google%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</link>
-      <pubDate>Tue, 13 Mar 2018 08:46:27 +0800</pubDate>
-      
-      <guid>http://madbee.github.io/%E5%AE%89%E8%A3%85gvm%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5google%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</guid>
-      <description>#Ubuntu 安装GVM提示无法连接Google解决办法 使用 GVM 安装不同版本的 Go。碰到问题是国内无法访问 GVM 配置的源地址。报如下错误：
-[root@mq:/home/wwwroot/] $ gvm install go1.8 Downloading Go source... Installing go1.8... * Compiling... ERROR: Couldn&#39;t download Go source. Check the logs /root/.gvm/logs/go-download.log $ cat /root/.gvm/logs/go-download.log Initialized empty Git repository in /root/.gvm/archive/go/.git/ error: Failed connect to go.googlesource.com:443; Operation now in progress while accessing https://go.googlesource.com/go/info/refs fatal: HTTP request failed Initialized empty Git repository in /root/.gvm/archive/go/.git/ Initialized empty Git repository in /root/.gvm/archive/go/.git/  国内访问不了https://go.googlesource.com/go 可将 GO_SOURCE_URL修改为github上的源码镜像</description>
-    </item>
-    
-    <item>
-      <title>#回忆很美好</title>
-      <link>http://madbee.github.io/#%E5%9B%9E%E5%BF%86%E5%BE%88%E7%BE%8E%E5%A5%BD/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://madbee.github.io/#%E5%9B%9E%E5%BF%86%E5%BE%88%E7%BE%8E%E5%A5%BD/</guid>
-      <description>#回忆很美好 今天听了几首老歌，回忆就像旧书堆一下子塌了，我站着笑着看着过去，像看一部老电影，看自己过去是如何蹩脚的表演。 昨天也是和朋友聊到了过去，过去怎么样、过去怎么想，然而&amp;hellip; 过好现在，笑着面对现在，未来回忆才会精彩&amp;hellip;</description>
+      <guid>http://madbee.github.io/2019/06/28/fist/</guid>
+      <description>今天听了几首老歌，回忆就像旧书堆一下子塌了，我站着笑着看着过去，像看一部老电影，看自己过去是如何蹩脚的表演。 昨天也是和朋友聊到了过去，过去怎</description>
     </item>
     
   </channel>
