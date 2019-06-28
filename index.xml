@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linto Blog</title>
-    <link>http://madbee.github.io/</link>
+    <link>http://blog.linto.me/</link>
     <description>Recent content on Linto Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2015. All rights reserved.</copyright>
     <lastBuildDate>Sat, 23 Feb 2019 15:50:19 +0800</lastBuildDate>
     
-	<atom:link href="http://madbee.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.linto.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>回忆很美好 </title>
-      <link>http://madbee.github.io/2019/06/28/fist/</link>
+      <link>http://blog.linto.me/2019/06/28/fist/</link>
       <pubDate>Sat, 23 Feb 2019 15:50:19 +0800</pubDate>
       
-      <guid>http://madbee.github.io/2019/06/28/fist/</guid>
+      <guid>http://blog.linto.me/2019/06/28/fist/</guid>
       <description>今天听了几首老歌，回忆就像旧书堆一下子塌了，我站着笑着看着过去，像看一部老电影，看自己过去是如何蹩脚的表演。 昨天也是和朋友聊到了过去，过去怎</description>
     </item>
     

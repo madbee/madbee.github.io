@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Linto Blog</title>
-    <link>http://madbee.github.io/categories/</link>
+    <link>http://blog.linto.me/categories/</link>
     <description>Recent content in Categories on Linto Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2015. All rights reserved.</copyright>
     
-	<atom:link href="http://madbee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.linto.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
